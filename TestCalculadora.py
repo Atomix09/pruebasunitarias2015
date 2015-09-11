@@ -10,4 +10,4 @@ class TestCalculadora(unittest.TestCase):
 		self.assertEqual(4, resultado)
 
 if __name__=="__main__":
-	unitest.main()
+	unittest.main()
